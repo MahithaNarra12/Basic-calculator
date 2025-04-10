@@ -14,14 +14,14 @@ This app provides basic arithmetic operations like addition, subtraction, multip
    Inverse (1/x)
    Square (x²)
    Percentage (%)
-- **Responsive Design:** The app works smoothly across various devices (desktop, tablet, mobile)
-- **User-Friendly Interface:** Clean and easy-to-use layout with buttons for each operation
+ **Responsive Design:** The app works smoothly across various devices (desktop, tablet, mobile)
+ **User-Friendly Interface:** Clean and easy-to-use layout with buttons for each operation
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – For creating the structure of the calculator
-- **CSS3** – For styling the calculator interface
-- **JavaScript** – To handle the calculator logic and user interactions
+ **HTML5** – For creating the structure of the calculator
+ **CSS3** – For styling the calculator interface
+ **JavaScript** – To handle the calculator logic and user interactions
 
 ⚠️ Limitations
 No Backend: This is a static web app with no server-side functionality.
