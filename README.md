@@ -31,7 +31,8 @@ This app provides basic arithmetic operations like addition, subtraction, multip
  
  **JavaScript** – To handle the calculator logic and user interactions
 
-⚠️ Limitations
+ ## ⚠️ Limitations
+ 
  No Backend: This is a static web app with no server-side functionality.
 
  Basic Validation: The app performs basic error handling (e.g., invalid input results in "Error").
